@@ -83,16 +83,10 @@ Outputs:
 
 ---
 
-## Team
-
-| Role | Owner |
-|------|-------|
-| Data Engineering | [name] |
-| Model Development | [name] |
-| Evaluation | [name] |
-
----
-
 ## License
 
-MIT
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the MIT License.
+
+You are free to use, modify, and distribute it under the terms of the MIT License.
